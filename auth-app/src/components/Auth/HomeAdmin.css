@@ -1,0 +1,31 @@
+/* src/components/Auth/HomeAdmin.css */
+
+.home-admin-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-admin-container h2 {
+    color: #2c3e50;
+  }
+  
+  .home-admin-container h3 {
+    color: #34495e;
+  }
+  
+  .home-admin-container p {
+    font-size: 16px;
+  }
+  
+  .home-admin-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .home-admin-container li {
+    background: #ecf0f1;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  

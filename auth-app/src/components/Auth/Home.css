@@ -1,0 +1,45 @@
+/* Home.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .home-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  h3 {
+    color: #555;
+  }
+  
+  .user-info {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .user-info p {
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .message {
+    text-align: center;
+    color: #d9534f; /* Màu đỏ cho thông báo lỗi */
+    font-size: 18px;
+  }
+  
